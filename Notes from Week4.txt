@@ -1,0 +1,27 @@
+Notes from Week4
+
+Python tutor website can help you visualize your code 
+pythontutor.com 
+
+"pass" you can pass through something elif i == /n: pass
+
+Functions:
+you can use or define your own function 
+
+"modularize your code as much as possible"
+break up into functions and call them
+
+def <name function>  (arguments)
+
+example:
+
+def add_these(a,b):
+	the_sum=a+b
+	return the_sum
+
+my_sum= add_these(1,5)
+
+else:
+	raise ValueError("some message that tells what the error is")
+
+	
